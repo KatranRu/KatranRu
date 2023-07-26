@@ -1,8 +1,17 @@
 
 
 <div id="header" align="center">
-  <img src="resources/gif/coding_java.gif" width="100"/>
+  <img src="resources/gif/coding_java.gif" width="400"/>
+  <div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=KatranRu&style=flat-square&color=blue" alt=""/>  
+  </div>
+  <h1>
+    Hi there 👋
+  </h1>
 </div>
 
+---
 
-### Hi there 👋
+### :man_technologist: About Me :
+
+
